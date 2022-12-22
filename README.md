@@ -16,3 +16,5 @@ University Parts included in network area:<br>
 2- Boys And Girls Dormitory<br>
 3- Library and Informatics<br>
 4- IT Consulting
+<br>
+![Capture](https://user-images.githubusercontent.com/95470638/209086579-363f8dd5-1ac5-4d7c-bf5d-2b1e42d41ca7.PNG)
